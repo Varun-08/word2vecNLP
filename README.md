@@ -1,0 +1,2 @@
+# word2vecNLP
+Using word2vec creating a model for seniment analysis on imdb data
